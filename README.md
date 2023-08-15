@@ -1,6 +1,6 @@
 # PYTHON Code
 ### This GitHub repository hosts a collection of well-organized and extensively commented Python code examples, covering various topics and best practices.
-"From basic syntax and data structures to advanced algorithms and design patterns, this repository is a valuable resource for Java developers of all levels. Whether you're a beginner seeking to learn Java or an experienced programmer looking to enhance your skills, explore the comprehensive codebase and contribute to the vibrant Java community."
+"From basic syntax and data structures to advanced algorithms and design patterns, this repository is a valuable resource for Python developers of all levels. Whether you're a beginner seeking to learn Python or an experienced programmer looking to enhance your skills, explore the comprehensive codebase and contribute to the vibrant Python community."
 ### How to contribute
 1. Fork the repository
 2. Create a new branch for your changes (e.g. `git checkout -b my-new-feature`)
